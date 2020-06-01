@@ -18,7 +18,7 @@
         padding: 20px 30px;
         line-height: 1.6;
         font-size: 16px;
-        background-color: #f3f6f6;
+        background-color: #FFF;
         >h1 {
             margin-bottom: -10px;
         }
@@ -55,8 +55,8 @@
                     }
                     a {
                         padding: 0 5px;
-                        background-color: #9e9d9d;
-                        color: #fff;
+                        background-color: #dcdcdc;
+                        color: #333;
                         font-size: 90%;
                         transition: 0.3s ease;
                         &:hover {
@@ -74,7 +74,7 @@
                         padding: 0 5px;
                         background-color: #c6cbe9;
                         border-radius: 4px;
-                        color: #fff;
+                        color: #333;
                         font-size: 90%;
                         transition: 0.3s ease;
                         &:hover {
