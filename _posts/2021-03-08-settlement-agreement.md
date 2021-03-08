@@ -17,7 +17,7 @@ In this Project, we try to change pronouns based on the person's gender and pref
 
 ## SETTLEMENT AGREEMENT AND RELEASE
 
-**FOR AND IN CONSIDERATION** of the person stated Ms Jane Doe and (i) the Judicial system of the state of Texas, and (i) Public Works Department, and (iii) Public Judiciary Court System and (iv) Board of Public Members, enter into the following Agreement:
+**FOR AND IN CONSIDERATION** of the person stated Ms Jane Doe and (i) the Judicial system of the state of Texas, and (ii) Public Works Department, and (iii) Public Judiciary Court System and (iv) Board of Public Members, enter into the following Agreement:
 
 ### RECITALS
 
