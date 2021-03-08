@@ -9,6 +9,10 @@ author: csoham
 * content
 {:toc}
 
+In this Project, we try to change pronouns based on the person's gender and preferred pronouns. We use Python and NLTK to do this. Below is an example of a legal document where a tool like this might be useful.
+
+----
+
 ## SETTLEMENT AGREEMENT AND RELEASE
 
 **FOR AND IN CONSIDERATION** of the person stated Ms Jane Doe and (i) the Judicial system of the state of Texas, and (i) Public Works Department, and (iii) Public Judiciary Court System and (iv) Board of Public Members, enter into the following Agreement:
